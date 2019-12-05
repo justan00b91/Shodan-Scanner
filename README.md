@@ -1,5 +1,5 @@
 # Shodan Scanner
-================
+
 * # Requirements:
 The code requires shodan library can be installed using the following command:
 ```bash
