@@ -1,12 +1,12 @@
 # Shodan Scanner
 
-* # Requirements:
+* ## Requirements:
 The code requires shodan library can be installed using the following command:
 ```bash
 sudo pip install shodan
 ```
 
-* # Usage:
+* ## Usage:
 Download the repo of clone it using following command:
 ```bash
 git clone https://github.com/justan00b91/Shodan-Scanner.git
